@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\bin\Debug\netcoreapp3.1\1.OldestFamilyMember.exe
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\bin\Debug\netcoreapp3.1\1.OldestFamilyMember.deps.json
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\bin\Debug\netcoreapp3.1\1.OldestFamilyMember.runtimeconfig.json
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\bin\Debug\netcoreapp3.1\1.OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\bin\Debug\netcoreapp3.1\1.OldestFamilyMember.dll
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\bin\Debug\netcoreapp3.1\1.OldestFamilyMember.pdb
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\obj\Debug\netcoreapp3.1\1.OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\obj\Debug\netcoreapp3.1\1.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\obj\Debug\netcoreapp3.1\1.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\obj\Debug\netcoreapp3.1\1.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\obj\Debug\netcoreapp3.1\1.OldestFamilyMember.dll
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\obj\Debug\netcoreapp3.1\1.OldestFamilyMember.pdb
+C:\Users\georg\source\repos\C# OOP\2.DefiningClasses-Exercise\1.OldestFamilyMember\obj\Debug\netcoreapp3.1\1.OldestFamilyMember.genruntimeconfig.cache
