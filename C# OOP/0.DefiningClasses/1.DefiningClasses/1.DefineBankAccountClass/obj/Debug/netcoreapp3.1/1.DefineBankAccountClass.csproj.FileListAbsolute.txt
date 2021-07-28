@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\bin\Debug\netcoreapp3.1\1.DefineBankAccountClass.exe
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\bin\Debug\netcoreapp3.1\1.DefineBankAccountClass.deps.json
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\bin\Debug\netcoreapp3.1\1.DefineBankAccountClass.runtimeconfig.json
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\bin\Debug\netcoreapp3.1\1.DefineBankAccountClass.runtimeconfig.dev.json
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\bin\Debug\netcoreapp3.1\1.DefineBankAccountClass.dll
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\bin\Debug\netcoreapp3.1\1.DefineBankAccountClass.pdb
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\obj\Debug\netcoreapp3.1\1.DefineBankAccountClass.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\obj\Debug\netcoreapp3.1\1.DefineBankAccountClass.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\obj\Debug\netcoreapp3.1\1.DefineBankAccountClass.AssemblyInfo.cs
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\obj\Debug\netcoreapp3.1\1.DefineBankAccountClass.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\obj\Debug\netcoreapp3.1\1.DefineBankAccountClass.dll
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\obj\Debug\netcoreapp3.1\1.DefineBankAccountClass.pdb
+C:\Users\georg\source\repos\C# OOP\1.DefiningClasses\1.DefineBankAccountClass\obj\Debug\netcoreapp3.1\1.DefineBankAccountClass.genruntimeconfig.cache
