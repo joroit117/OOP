@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace RawData
+{
+     public class Car
+    {
+
+        public Car(string model, int engineSpeed, int enginePower, int cargoWeight, string cargoType, Tire[] tires)
+        {
+            Model = model;
+            Engine engine = new Engine(engineSpeed, enginePower);
+            Engine = engine;
+            Cargo cargo = new Cargo(cargoWeight, cargoType);
+            Cargo = cargo;
+            Tires = tires;
+        }
+
+        public string Model { get; set; }
+
+        public Engine Engine{ get; set; }
+
+        public Cargo Cargo { get; set; }
+
+        public Tire[] Tires { get; set; }
+
+    }
+}

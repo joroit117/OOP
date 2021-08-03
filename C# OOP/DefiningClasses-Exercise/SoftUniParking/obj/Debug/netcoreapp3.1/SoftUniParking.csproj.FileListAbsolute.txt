@@ -1,0 +1,13 @@
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\obj\Debug\netcoreapp3.1\SoftUniParking.csprojAssemblyReference.cache
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\georg\AppData\Local\Temp\Rar$DIa61532.43535\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache
