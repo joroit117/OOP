@@ -1,0 +1,21 @@
+﻿  Deer.cpp
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(71,28): warning C4018: '>': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(85,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Deer.h(14,7): error C3248: 'Herbivorous::whatAmI': function declared as 'final' cannot be overridden by 'Deer::whatAmI'
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Herbivorous.h(15): message : see declaration of 'Herbivorous::whatAmI'
+  Herbivorous.cpp
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(71,28): warning C4018: '>': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(85,26): warning C4018: '<': signed/unsigned mismatch
+  Rabbit.cpp
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(71,28): warning C4018: '>': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(85,26): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(71,28): warning C4018: '>': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Animal.h(85,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Deer.h(14,7): error C3248: 'Herbivorous::whatAmI': function declared as 'final' cannot be overridden by 'Deer::whatAmI'
+C:\Users\georg\source\repos\C++\OOP\OOP_Training_CPP\Animals\Herbivorous.h(15): message : see declaration of 'Herbivorous::whatAmI'
+  Generating Code...
